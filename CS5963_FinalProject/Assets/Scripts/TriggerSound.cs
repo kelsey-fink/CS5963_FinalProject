@@ -6,25 +6,27 @@ public class TriggerSound : MonoBehaviour {
 
     //public GameObject trigger;
     public AudioSource audioSource;
-    public AudioClip audioClip;
+    //public AudioClip audioClip;
 	// Use this for initialization
 	void Start () {
-        audioSource.clip = audioClip;
+        //audioSource.clip = audioClip;
     }
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKeyDown(KeyCode.A))
-            audioSource.Play();
-	}
 
+	}
     private void OnTriggerEnter(Collider other)
     {
+        //Debug.Log("collided");
 
-        if (other.tag == "Player")
+        
+        if (other.gameObject.tag == "Player")
         {
+            Debug.Log("collided");
             //trigger.SetActive(true); //maybe not necessary
             audioSource.Play();
         }
     }
+
 }

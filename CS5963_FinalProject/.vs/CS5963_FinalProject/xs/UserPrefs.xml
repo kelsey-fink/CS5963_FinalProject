@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TriggerSound.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="33" Column="1" />
-      <File FileName="Assets/Scripts/TriggerSound.cs" Line="17" Column="41" />
+      <File FileName="Assets/Scripts/TriggerSound.cs" Line="33" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="582c0f46-0898-42d1-93bb-0f7ad8eae5e2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7824f0ed-e878-4207-a971-c98e23ba9858" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
