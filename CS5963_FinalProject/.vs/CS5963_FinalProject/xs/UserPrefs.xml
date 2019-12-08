@@ -1,26 +1,14 @@
 ﻿<Properties StartupConfiguration="{D2A03219-D96D-3BE7-BE5A-500BBAAD347B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TriggerSound.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudienceMovement.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="33" Column="1" />
       <File FileName="Assets/Scripts/TriggerSound.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/AudienceMovement.cs" Line="67" Column="14" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CS5963_FinalProject" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="TriggerSound.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7824f0ed-e878-4207-a971-c98e23ba9858" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
