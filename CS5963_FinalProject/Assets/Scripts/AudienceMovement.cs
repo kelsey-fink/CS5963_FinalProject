@@ -42,7 +42,7 @@ public class AudienceMovement : MonoBehaviour
             new Vector3(this.transform.position.x + 0.2f, this.transform.position.y, this.transform.position.z),
             step);
             moves++;
-            if (moves >= 5)
+            if (moves >= 4)
             {
                 moves = 0;
                 goLeft = false;
@@ -63,7 +63,7 @@ public class AudienceMovement : MonoBehaviour
             new Vector3(this.transform.position.x - 0.2f, this.transform.position.y, this.transform.position.z),
             step);
             moves++;
-            if (moves >= 5)
+            if (moves >= 4)
             {
                 moves = 0;
                 goLeft = true;
